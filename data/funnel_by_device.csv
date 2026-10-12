@@ -1,0 +1,19 @@
+device,step_order,step,users
+Desktop,1,Visited,156745
+Desktop,2,Viewed product,35672
+Desktop,3,Added to cart,7272
+Desktop,4,Started checkout,3245
+Desktop,5,Entered payment,2094
+Desktop,6,Purchased,1656
+Mobile,1,Visited,106987
+Mobile,2,Viewed product,24154
+Mobile,3,Added to cart,4990
+Mobile,4,Started checkout,2286
+Mobile,5,Entered payment,1481
+Mobile,6,Purchased,1194
+Tablet,1,Visited,6060
+Tablet,2,Viewed product,1398
+Tablet,3,Added to cart,277
+Tablet,4,Started checkout,125
+Tablet,5,Entered payment,79
+Tablet,6,Purchased,65

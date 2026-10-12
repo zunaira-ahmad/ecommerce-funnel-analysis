@@ -1,0 +1,25 @@
+channel,step_order,step,users
+Google search (organic),1,Visited,98625
+Google search (organic),2,Viewed product,21304
+Google search (organic),3,Added to cart,4060
+Google search (organic),4,Started checkout,1768
+Google search (organic),5,Entered payment,1104
+Google search (organic),6,Purchased,874
+Direct (none),1,Visited,63446
+Direct (none),2,Viewed product,14180
+Direct (none),3,Added to cart,2942
+Direct (none),4,Started checkout,1330
+Direct (none),5,Entered payment,848
+Direct (none),6,Purchased,682
+Referral,1,Visited,42478
+Referral,2,Viewed product,10607
+Referral,3,Added to cart,2375
+Referral,4,Started checkout,1117
+Referral,5,Entered payment,773
+Referral,6,Purchased,613
+Paid ads (cpc),1,Visited,13409
+Paid ads (cpc),2,Viewed product,2725
+Paid ads (cpc),3,Added to cart,473
+Paid ads (cpc),4,Started checkout,198
+Paid ads (cpc),5,Entered payment,111
+Paid ads (cpc),6,Purchased,92
